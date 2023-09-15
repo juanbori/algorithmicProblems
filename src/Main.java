@@ -5,7 +5,6 @@ public class Main {
     public static void main(String[] args) {
         List<Integer> numbers = List.of(4, 4, 4);
         System.out.println(Source.sumPossible(6, numbers));
-
     }
 }
 
